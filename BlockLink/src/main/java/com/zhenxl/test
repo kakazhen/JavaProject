@@ -1,0 +1,1 @@
+BlockChain(chain=[Block(sign=a1e5f41a18f6acd170807be1c8e47af97acdb2758fede6648263ed2372a2d95a, data=这是第一个块, previous_sign=null, timestamps=1578535037627), Block(sign=42483796e2aea26d3d8d630f97eb91bd8849a29751f034b76680c7efce1d94fd, data=转账10块钱, previous_sign=a1e5f41a18f6acd170807be1c8e47af97acdb2758fede6648263ed2372a2d95a, timestamps=1578535037642)])
